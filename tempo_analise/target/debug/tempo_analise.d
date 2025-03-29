@@ -1,0 +1,1 @@
+/workspaces/Data-Structure-Strategy-and-Implementation-Unidade/tempo_analise/target/debug/tempo_analise: /workspaces/Data-Structure-Strategy-and-Implementation-Unidade/tempo_analise/src/main.rs /workspaces/Data-Structure-Strategy-and-Implementation-Unidade/tempo_analise/src/regression.rs
